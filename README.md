@@ -7,7 +7,4 @@ Farmers can monitor all the sensor parameters by using a web or mobile applicati
 They can make the decision whether to water the crop or postpone it by monitoring the sensor parameters and controlling the motor pumps from the mobile application itself.
 
 Team :
-YASHWANTH D
-G PRASANTH 
-ARUN PRAKASH
-MUGILAN
+YASHWANTH D, G PRASANTH, ARUN PRAKASH, MUGILAN
