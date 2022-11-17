@@ -34,5 +34,25 @@ Configure the Node-RED and create APIs for communicating with mobile application
 
 Develop a mobile application to display the sensor parameters and control the motors  
 
+
 Team :
 YASHWANTH D, G PRASANTH, ARUN PRAKASH, MUGILAN
+
+
+PROJECT OUTPUT:
+ScreenShots:
+
+
+Mobile Application:
+
+![photo_2022-11-14_20-55-33](https://user-images.githubusercontent.com/77603770/202491723-7b77609d-e0ff-4208-a1e7-abc55c2c4024.jpg)
+
+
+Web UI:
+![Screenshot (65)](https://user-images.githubusercontent.![Screenshot (64)](https://user-images.githubusercontent.com/77603770/202491816-cb296de0-d1c7-4bf6-8e8f-6144f8632b93.png)
+com/77603770/202491799-9db50187-ddbe-415c-a1ed-d45b199e8581.png)
+
+
+Working Demo Video:
+https://drive.google.com/file/d/1pnkF51fLuXcUJbE89TZWyLG1J2X_l5Ff/view?usp=sharing
+
