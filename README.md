@@ -49,8 +49,11 @@ Mobile Application:
 
 
 Web UI:
-![Screenshot (65)](https://user-images.githubusercontent.![Screenshot (64)](https://user-images.githubusercontent.com/77603770/202491816-cb296de0-d1c7-4bf6-8e8f-6144f8632b93.png)
-com/77603770/202491799-9db50187-ddbe-415c-a1ed-d45b199e8581.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/77603770/202492240-927f42ba-4309-4457-a161-7bc7f7e26ac6.png)
+
+![Screenshot (64)](https://user-images.githubusercontent.com/77603770/202492283-3cc7bbaa-bc51-4eed-b489-347f22cdb482.png)
+
+
 
 
 Working Demo Video:
